@@ -1,4 +1,13 @@
-### Hi there 👋
+<div align="center">
+  <img src="https://media.tenor.com/tHGomflMSuIAAAAd/cat-computer.gif" width="300">  
+  <h2 align="center">
+    Welcome to zono2010's profile!
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  </h2>
+  <h3>A passionate systems engineering student in his last years of college with full dedication to web development, especially the backend. besides having other 
+    hobbies, as an rookie artist.</h3>
+  
+</div>  
 
 <!--
 **zono2010mx/zono2010mx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
