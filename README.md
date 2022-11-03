@@ -3,7 +3,7 @@
     Welcome to zono2010mx's profile!
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
   </h2>
-  <h4>My real name is Sergio Armando Pérez Rodriguez, I'm from Chetumal, México. A passionate systems engineering student in his last years of college with full dedication to web development, especially the backend. In addition to having other hobbies, like a drawing.</h4>
+  <h4>My real name is Sergio Armando Pérez Rodriguez, I'm from Chetumal, México. A passionate systems engineering student in his last years of college with full dedication to web development, especially the backend. In addition to having other hobbies, like a drawing, so that, i like the design too and i have some knowledge in the part of front-end.</h4>
   <img src="https://media.tenor.com/tHGomflMSuIAAAAd/cat-computer.gif" width="300">  
 </div>  
 
