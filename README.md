@@ -40,6 +40,7 @@
     <img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white">
     <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white">
     <img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white">
+    <img alt="C#"  src="">
 </p>
 
 ### 🧰 Frameworks and libraries
@@ -73,6 +74,7 @@
     <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white">
     <img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-2C2255.svg?logo=eclipse&logoColor=white">
     <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
+    <img alt="Visual Studio" src="https://img.shields.io/badge/Visual_Studio-5C2D91.svg?logo=visual-studio-code&logoColor=white">  
 </p>
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
